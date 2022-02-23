@@ -1,0 +1,20 @@
+body {
+	background-image: url(https://instapik.ru/wp-content/uploads/2021/03/nezhnyy-fon-dlya-fotoshopa-v-pastelnyh-tonah-linii-2048x1366.jpg);
+}
+.smesh {
+	font-style: oblique;
+	display: block;
+	color: pink;
+	margin: 20px;
+	padding: 10px;
+}
+#tratata {
+	color: rgb(50, 82, 123);
+	font-size: 28px;
+}
+a:hover {
+	color: red;
+}
+a::selection{
+	color: blueviolet;
+}
